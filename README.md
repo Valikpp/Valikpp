@@ -1,5 +1,5 @@
-## Vadim PROKHOROV
 # 💫 About Me:
+Vadim PROKHOROV
 A student of computer science at the Sorbonne University.<br>Member of the kryptosphere community.<br>I'm planning the main vector of activity in data science.<br>Currently working on a statistically analytical real estate project.<br>Looking for an internship for a year.
 
 
