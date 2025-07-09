@@ -1,6 +1,6 @@
 ## Vadim PROKHOROV
 # 💫 About Me:
-Computer Science student at Sorbonne University<br>Focused on Data Science and Machine Learning<br>Currently working on a real estate analytics project<br>Actively seeking a internship or  apprenticeship opportunity 
+Computer Science student at Sorbonne University<br>Focused on Data Science and Machine Learning<br>Currently working on a real estate analytics project<br>Actively seeking an internship or an apprenticeship opportunity 
 
 
 ## 🌐 Socials:
