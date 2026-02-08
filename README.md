@@ -1,6 +1,9 @@
 ## Vadim PROKHOROV
 # 💫 About Me:
-- Computer Science student at Sorbonne University<br> - Focused on Data Science and Machine Learning<br> - Currently working on a project for a smart recommendation system in the field of art.<br> - Intern at Docent art
+- Computer Science student at Sorbonne University
+- Focused on Data Science and Machine Learning
+- Currently working on a project for a smart recommendation system in the field of art
+- Intern at Docent art
 
 
 ## 🌐 Socials:
